@@ -120,7 +120,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, Department of Automation at Beihang University,Beijing, China. Majoring in Science of automation. 
+- *2021.09 - Now*, Undergraduate, Department of Automation at Beihang University, Beijing, China. Majoring in Science of automation. 
 
 
 # 🎡 Activities
