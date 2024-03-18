@@ -22,42 +22,42 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 
 author:
-name             : "Junbo Niu (牛俊博)"
-avatar           : "images/self_img.jpg"
-bio              : "Beihang University"
-location         : "Haidian, Beijing, China"
-employer         :
-pubmed           : 
-# googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-email            : "niujunbo@buaa.edu.cn"
-researchgate     :  "resume/CvOfJunboNiu"
-uri              :
-bitbucket        :
-codepen          :
-dribbble         :
-flickr           :
-facebook         :
-foursquare       :
-github           : "Niujunbo2002"
-google_plus      :
-keybase          :
-instagram        :
-impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-lastfm           :
-linkedin         : # e.g., "linkedin username"
-dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-orcid            : # e.g., "https://orcid.org/xxxx"
-pinterest        :
-soundcloud       :
-stackoverflow    : # http://stackoverflow.com/users/123456/username
-steam            :
-tumblr           :
-twitter          : 
-vine             :
-weibo            :
-xing             :
-youtube          :
-wikipedia        :
+  name             : "Junbo Niu (牛俊博)"
+  avatar           : "images/self_img.jpg"
+  bio              : "Beihang University"
+  location         : "Haidian, Beijing, China"
+  employer         :
+  pubmed           : 
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "niujunbo@buaa.edu.cn"
+  researchgate     :  "resume/CvOfJunboNiu"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "Niujunbo2002"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 encoding: utf-8
