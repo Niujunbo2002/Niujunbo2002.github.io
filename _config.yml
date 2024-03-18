@@ -20,7 +20,8 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:
+
+  author:
   name             : "Junbo Niu (牛俊博)"
   avatar           : "images/self_img.jpg"
   bio              : "Beihang University"
@@ -29,6 +30,7 @@ author:
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "niujunbo@buaa.edu.cn"
+  researchgate     :  "resume/CvOfJunboNiu"
   uri              :
   bitbucket        :
   codepen          :
@@ -36,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Niujunbo2002"
+  github           : "Niujunbo2002"
   google_plus      :
   keybase          :
   instagram        :
