@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "nnnn"
-description              : "Undergraduate student at Beihang University."
+description              : "Undergraduate student."
 repository               : "Niujunbo2002/Niujunbo2002.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,11 +25,12 @@ author:
   avatar           : "images/self_img.jpg"
   bio              : "Beihang University"
   location         : "Haidian, Beijing, China"
+  Hometown         : "Xuzhou, Jiangsu, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "resume/CvOfJunboNiu.pdf"
-  researchgate     : "resume/CvOfJunboNiu.pdf"
+  email            : "niujunbo@buaa.edu.cn"
+  CV               : "resume/CvOfJunboNiu.pdf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "resume/CvOfJunboNiu.pdf"
+  github           : "https://github.com/Niujunbo2002"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : boheng-li-806753238/ # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
