@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "网站标题"
+title                    : "网站标题 - test"
 description              : "Undergraduate student at Wuhan University."
 repository               : "AntigoneRandy/liboheng.github.io"
 google_scholar_stats_use_cdn : true
