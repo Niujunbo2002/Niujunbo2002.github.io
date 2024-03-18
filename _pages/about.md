@@ -19,9 +19,9 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI).
+My name is Junbo Niu (牛俊博), I'm currently a junior undergraduate student at the Department of Automation at Beihang University, pursuing a B.E. degree in Science of automation.
 
-My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/).
+My research interest lies in Computer Vision(CV) & Deep Learning(DL), where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/).
 
 I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
 
@@ -30,7 +30,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
-- *2024.02*: One paper is accepted by CVPR 2024.
+<!-- - *2024.02*: One paper is accepted by CVPR 2024.
 - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
 - *2024.01*: Invited as a reviewer for ACM MM 2024.
 - *2023.12*: One paper is accepted by AAAI 2024.
@@ -41,7 +41,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 - *2023.07*: One paper is accepted by ICCV 2023.
 - *2023.06*: Invited as a reviewer by ACM MM.
 - *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
-- *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
+- *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!-->
 <!-- - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing! -->
 - *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 <!-- - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%. -->
@@ -59,7 +59,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 - *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\] -->
 
 # 📝 Publications 
-
+<!--
 $^\dagger$: equal contribution, $^*$: corresponding author
 
 <!-- ## 🛰️ Geoinformatics & Remote Sensing
@@ -95,7 +95,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 
 <!-- Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences. -->
 <!-- ## 🖨️ Preprints & In Submission -->
-
+-->
 
 # 🏆 Competition Awards
 - 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
@@ -120,9 +120,8 @@ Dongyu Yao, **Boheng Li**$^\*$
 - *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
 # 📖 Educations
-- *2020.09 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
-- *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
-- *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China.
+- *2021.09 - Now*, Undergraduate, Department of Automation at Beihang University,Beijing, China. Majoring in Science of automation. 
+
 
 # 🎡 Activities
 
