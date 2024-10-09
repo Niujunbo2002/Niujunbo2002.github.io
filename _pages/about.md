@@ -19,11 +19,13 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Junbo Niu (牛俊博), I'm currently a junior undergraduate student at the Department of Automation at Beihang University, pursuing a B.E. degree in Science of automation.
+My name is Junbo Niu (牛俊博), I'm currently a junior undergraduate student at the Department of Automation at Beihang University, pursuing a B.E. degree in Science of automation.I am currently also a research intern at Shanghai AI Lab and was fortunate to be advised by Prof. Jiaqi Wang, working on VLLM(Video). I will be pursuing a PhD in EECS at Peking University starting in September 2025, advised by Prof. [Bin CUI](https://cuibinpku.github.io/) and Prof. [Wentao Zhang](https://zwt233.github.io/).
 
-My research interest lies in Computer Vision(CV) & Deep Learning(DL), where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/).
+My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
 
-I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
+MLLM, e.g. Video Language Models
+Image and Video Generation and Manipulation
+Neural Scene Representations and Rendering
 
 🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
