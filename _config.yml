@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "nnnn"
-description              : "Undergraduate student."
+description              : "Senior Undergraduate at Tsinghua University"
 repository               : "Niujunbo2002/Niujunbo2002.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junbo Niu (牛俊博)"
   avatar           : "images/self_img.jpg"
-  bio              : "Beihang University"
+  bio              : "Senior Undergraduate at Tsinghua University"
   location         : "Haidian District, Beijing, China"
   employer         : 
   pubmed           : 
