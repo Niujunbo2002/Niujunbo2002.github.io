@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junbo Niu (牛俊博)"
   avatar           : "images/self_img.jpg"
-  bio              : "Senior Undergraduate at Tsinghua University"
+  bio              : 
   location         : "Haidian District, Beijing, China"
   employer         : 
   pubmed           : 
