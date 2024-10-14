@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Junbo Niu (牛俊博), I'm currently a senior undergraduate student at the Department of Automation at Beihang University, majoring in Science of automation.I am currently also a research intern at Shanghai AI Lab and was fortunate to be advised by Prof. Jiaqi Wang, working on VLLM(Video). I will be pursuing a PhD in EECS at Peking University starting in September 2025, advised by Prof. [Bin CUI](https://cuibinpku.github.io/) and Prof. [Wentao Zhang](https://zwt233.github.io/).
+My name is Junbo Niu (牛俊博), I'm currently a senior undergraduate student at the Department of Automation at Beihang University, majoring in Science of automation.I am currently also a research intern at Shanghai AI Lab and was fortunate to be advised by Prof. Jiaqi Wang, working on VLLM(Video). <!-- I will be pursuing a PhD in EECS at Peking University starting in September 2025, advised by Prof. [Bin CUI](https://cuibinpku.github.io/) and Prof. [Wentao Zhang](https://zwt233.github.io/).-->
 
 My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
 
